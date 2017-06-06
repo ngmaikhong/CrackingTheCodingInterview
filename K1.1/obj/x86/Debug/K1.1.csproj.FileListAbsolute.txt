@@ -1,0 +1,5 @@
+/Users/NgocMai/Projects/K1.1/K1.1/obj/x86/Debug/K1.1.csproj.CoreCompileInputs.cache
+/Users/NgocMai/Projects/K1.1/K1.1/bin/Debug/K1.1.exe
+/Users/NgocMai/Projects/K1.1/K1.1/bin/Debug/K1.1.pdb
+/Users/NgocMai/Projects/K1.1/K1.1/obj/x86/Debug/K1.1.exe
+/Users/NgocMai/Projects/K1.1/K1.1/obj/x86/Debug/K1.1.pdb
