@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace K1
+/*namespace K1
 {
     class MainClass
     {
@@ -31,3 +31,5 @@ namespace K1
         }
     }
 }
+*/
+class 
