@@ -33,7 +33,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="1_6.cs" />
+    <Compile Include="1_7.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="1_1.cs" />
@@ -41,6 +41,7 @@
     <None Include="1_3.cs" />
     <None Include="1_4.cs" />
     <None Include="1_5.cs" />
+    <None Include="1_6.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
